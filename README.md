@@ -8,7 +8,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend%20Developer;Apasionado%20por%20el%20diseño%20web;Next.js%2C%20React%2C%20Tailwind%2C%20TypeScript;Siempre%20aprendiendo%20nuevas%20tecnologías;&font=Fira%20Code&center=true&width=440&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend%20Developer;Next.js%2C%20React%2C%20Tailwind%2C%20TypeScript;&font=Fira%20Code&center=true&width=440&height=45"></a>
 </p>
 
 <p align="center">
