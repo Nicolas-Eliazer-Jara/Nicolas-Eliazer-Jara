@@ -79,7 +79,7 @@
 ## 📬 Contacto
 
 <div align="center">
-  <a href="mailto:nicojara.dev@gmail.com">
+  <a href="mailto:nicolas.jara.dev@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/nicolas-eliazer-jara-57453236a/">
