@@ -70,9 +70,11 @@
 ---
 
 ## 🔥 Racha de contribuciones
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=nicojara&theme=tokyonight&hide_border=false" />
+  <img src="https://streak-stats.demolab.com?user=Nicolas-Eliazer-Jara&theme=tokyonight&hide_border=false&border_radius=20&date_format=j%20M%5B%20Y%5D&background=1E2B3C" alt="Racha de contribuciones" />
 </div>
+
 
 ---
 
