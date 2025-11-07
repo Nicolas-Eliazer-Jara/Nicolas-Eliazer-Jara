@@ -78,7 +78,7 @@
 
 ## 📈 Actividad reciente
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nicojara&theme=tokyo-night&hide_border=false" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nicojara&theme=tokyo-night&hide_border=false](https://github-readme-activity-graph.vercel.app/graph?username=Nicolas-Eliazer-Jara&theme=tokyo-night&area=true&hide_border=false&custom_title=Actividad%20Reciente&cache_seconds=1800" />
 </div>
 
 ---
