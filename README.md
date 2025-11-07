@@ -85,7 +85,7 @@
 
 ## 📌 Lenguajes más usados
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicojara&layout=compact&theme=tokyonight&hide_border=false&langs_count=6&exclude_repo=html-only,old-projects" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas-Eliazer-Jara&layout=compact&theme=tokyonight&langs_count=6&v=2" />
 </div>
 
 ---
