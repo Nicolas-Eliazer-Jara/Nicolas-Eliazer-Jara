@@ -64,28 +64,43 @@
 ## 📊 Estadísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nicojara&theme=algolia&show_icons=true&count_private=true&border_radius=20&include_all_commits=true&rank_icon=percentile" />
-</div>
-
-### 🔥 Racha de contribuciones
-<div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=nicojara&theme=dracula&background=1E2B3C&border=B2E0FF&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF" />
-</div>
-
-### 📈 Actividad reciente
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nicojara&theme=react-dark" />
-</div>
-
-### 📌 Lenguajes más usados
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicojara&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nicojara&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
 </div>
 
 ---
 
-## 🤖 Detección automática de skills más usados
+## 🔥 Racha de contribuciones
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=nicojara&theme=tokyonight&hide_border=false" />
+</div>
 
-Podés mostrar tus **lenguajes más usados automáticamente** gracias a esta línea:
-```md
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicojara&layout=compact&theme=radical)
+---
+
+## 📈 Actividad reciente
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nicojara&theme=tokyo-night&hide_border=false" />
+</div>
+
+---
+
+## 📌 Lenguajes más usados
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicojara&layout=compact&theme=tokyonight&hide_border=false&langs_count=6&exclude_repo=html-only,old-projects" />
+</div>
+
+---
+
+## 📬 Contacto
+
+<div align="center">
+  <a href="mailto:nicolas.jara.dev@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/nicolas-eliazer-jara-57453236a/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
+
+---
+
+<h6 align="center">Gracias por visitar mi perfil 🧠🚀</h6>
